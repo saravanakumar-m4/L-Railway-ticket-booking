@@ -15,6 +15,7 @@ public class TicketSystem {
 	    private final List<Passenger> confirmedPassengers = new ArrayList<>();
 	    private int ticketCounter = 1;
 
+	//Avlaible tickets in System:
 	    public TicketSystem() {
 	        availableBerths.put("LOWER", 1);
 	        availableBerths.put("MIDDLE", 2);
@@ -138,3 +139,4 @@ public class TicketSystem {
 	    }
 
 }
+
