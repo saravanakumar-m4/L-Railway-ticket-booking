@@ -88,4 +88,4 @@ Railway_Booking_System/
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Railway_Booking_System.git](https://github.com/saravanakumar-m4/L-Railway-ticket-booking/
+   git clone [https://github.com/saravanakumar-m4/L-Railway-ticket-booking.git]
